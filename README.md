@@ -19,7 +19,7 @@ This project is a basic HTTP server implemented in Rust, capable of handling mul
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/williammuchui/http_server.git 
+   git clone https://github.com/williammuchui/http-server.git 
    cd http_server
    ```
 
